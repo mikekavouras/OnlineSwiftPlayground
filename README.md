@@ -12,7 +12,7 @@ TBA. Checkout http://SwiftPlayground.run
 ## Installation
 
 ```
-$ git clone https://github.com/krzyzanowskim/OnlineSwiftPlayground.git
+$ git clone https://github.com/mikekavouras/OnlineSwiftPlayground.git
 $ cd swiftplayground
 $ npm install
 $ swift run -c release
